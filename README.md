@@ -147,5 +147,5 @@ New columns were derived to support deeper analysis:
 
 ## Author
 
-**Hardik**
+**Swari**
 EDA Final Project — King County House Sales Dataset
