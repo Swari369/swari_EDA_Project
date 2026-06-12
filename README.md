@@ -6,6 +6,14 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on the Kin
 
 ---
 
+## Interactive Dashboard
+
+An interactive Tableau dashboard was built to visualize the key findings from this analysis, including price distribution by location, renovation impact, and seasonal pricing trends.
+
+View the live dashboard here: https://public.tableau.com/app/profile/swari.tamboli/viz/KingCountyHouseSales-V2/KingCountyHouseSales
+
+A PDF export of the dashboard is also available in this repository: [King_County_House_Sales_Dashboard.pdf](King_County_House_Sales_Dashboard.pdf)
+
 ## Dataset
 
 - **Source:** King County House Sales dataset (`data/eda.csv`)
@@ -147,5 +155,5 @@ New columns were derived to support deeper analysis:
 
 ## Author
 
-**Hardik**
+**Swari**
 EDA Final Project — King County House Sales Dataset
